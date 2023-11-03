@@ -1,1 +1,26 @@
+Rojo Quimey C:\Users\WYTSRTTOML>ipconfig
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:21a2:b200:211:d856:a2ab:afb:1aa9
+   Dirección IPv6 . . . . . . . . . . : 2800:21a2:b200:211:dabb:c1ff:fedd:e55f
+   Dirección IPv6 temporal. . . . . . : 2800:21a2:b200:211:5c28:46f1:7a60:d532
+   Dirección IPv6 temporal. . . . . . : 2800:21a2:b200:211:f9f6:c76d:7392:7a22
+   Vínculo: dirección IPv6 local. . . : fe80::fbb5:8500:8da6:26ae%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.31
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::80b2:34ff:fef8:3c35%15
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::ac3f:6975:5541:da8b%13
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
 
