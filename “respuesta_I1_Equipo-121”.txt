@@ -8,3 +8,4 @@ y lo pueden ver los integrantes.
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos por whatsapp
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Mediante la seccion de projects que nos permitio organizar las tareas de cada uno de los integrantes.
